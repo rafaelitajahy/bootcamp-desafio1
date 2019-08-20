@@ -1,0 +1,13 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rafaelitajahy <rafaelitajahy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
